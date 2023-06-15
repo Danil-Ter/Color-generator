@@ -1,2 +1,4 @@
 # Color-generator
-https://ter-generator-colors.netlify.app/
+https://generator-colors-random.netlify.app
+
+
